@@ -1,4 +1,4 @@
-# **Kelvin Weather**
+# **JavaScript Code Challenges**
 
 This repository contains programs as a fulfillment to [Codecademy's code challenges for variables, data types, conditionals, and functions](#project-prompt).
 
