@@ -1,6 +1,6 @@
 # **Kelvin Weather**
 
-The Kelvin Weather script converts temperature from kelvin to fahrenheit. This training project, prepared by [Codecademy](https://www.codecademy.com/learn/introduction-to-javascript), has been an invaluable exercise in using variables and arithmetic operators using JavaScript.
+This repository contains programs as a fulfillment to [Codecademy's code challenges for variables, data types, conditionals, and functions](#project-prompt).
 
 ## Table of Contents
 
